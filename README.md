@@ -73,4 +73,4 @@ IoT 개발자 과정 TCP/IP 소켓 프로그래밍 학습 리포지토리
     ```
 
     - 완성!
-    ![MyWebPage](https://raw.githubusercontent.com/y7pWuXAq/2024-basic-sockprogramming/main/images/MyWebPage.png)
+    ![MyWebPage](https://raw.githubusercontent.com/y7pWuXAq/2024-TCPIP-socket-programming/main/images/MyWebPage.png)
